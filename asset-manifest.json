@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RouterApp/static/css/main.e0750b45.css",
+    "main.js": "/RouterApp/static/js/main.88fac639.js",
+    "static/js/488.4b15eaa4.chunk.js": "/RouterApp/static/js/488.4b15eaa4.chunk.js",
+    "index.html": "/RouterApp/index.html",
+    "main.e0750b45.css.map": "/RouterApp/static/css/main.e0750b45.css.map",
+    "main.88fac639.js.map": "/RouterApp/static/js/main.88fac639.js.map",
+    "488.4b15eaa4.chunk.js.map": "/RouterApp/static/js/488.4b15eaa4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0750b45.css",
+    "static/js/main.88fac639.js"
+  ]
+}
